@@ -1,6 +1,4 @@
-# Yes Theory Fam India
-
-What are you looking for?
+### What are you looking for?
 
 - [Events](#events)
 - [Groupchats](#groupchats)
