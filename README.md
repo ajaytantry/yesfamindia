@@ -18,9 +18,6 @@ No upcoming events at the moment
 
 ## Groupchats
 
-**Lookin for group chat representatives please send me a DM: [Ajay Tantry](https://www.facebook.com/ajay.tantry)**  
-Groups will get full at 250 members.  
-💚 = group reacheble and has space | 💛 = group reachable but has no space  
 WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 ---
