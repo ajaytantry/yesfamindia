@@ -97,5 +97,4 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 
 ### Technical representative
 
-- [Bikash Dash](https://www.facebook.com/beeeku)
 - [Ajay Tantry](https://www.facebook.com/ajay.tantry)
