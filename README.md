@@ -86,7 +86,7 @@ WA = WhatsApp | ME = Messenger (Facebook group) | TE = Telegram
 - [Madhya Pradesh](https://www.instagram.com/yesfammp/)
 - [Mumbai](https://www.instagram.com/mumbaiyesfam/)
 - [North East India](https://www.instagram.com/yestheorynortheastindia/)
-- [Pune](https://www.instagram.com/yestheory.pune/)
+- [Pune](https://www.instagram.com/yesfam.pune/)
 - [Punjab](https://www.instagram.com/yesfampunjab/)
 - [Tamil Nadu](https://www.instagram.com/yesfamtamilnadu/)
 - [Uttarakhand](https://www.instagram.com/yestheory_uttarakhand/)
